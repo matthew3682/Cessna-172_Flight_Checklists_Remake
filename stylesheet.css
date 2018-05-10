@@ -1,0 +1,40 @@
+body {background-color:rgb(54,57,61);
+      font-family:sans-serif;
+      color:white;
+      font-size:20px;} 
+
+h1 {font-family:sans-serif;
+    text-align: center;
+    font-size:40px;
+    background-color:blue; 
+    color:white;
+    border-style:solid;
+    border-width:8px; 
+    border-color:black;}
+
+h2 {text-align: center}
+
+.intro { 
+color:white;
+font-size:25px; 
+}
+
+.footer {
+    font-size:15px;
+    text-align:center;  
+}
+
+.list-title {
+    font-size:25px;   
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+
